@@ -1,0 +1,28 @@
+name: Daud Nugraha Portfolio
+favicon: null
+layout_spectrum: 0.21894142520613968
+typography_spectrum: 0.7928864902351052
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.306065637152642
+  lightness: 0.8699122036341578
+  saturation: 0.8331633037887514
+  rhythmicContrast: 0.5825450664851815
+purpose: []
