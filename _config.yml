@@ -1,7 +1,7 @@
 name: Daud Nugraha Portfolio
 favicon: null
-layout_spectrum: 0.21894142520613968
-typography_spectrum: 0.7928864902351052
+layout_spectrum: 0.99208
+typography_spectrum: 0.24548
 title: Daud Nugraha Art
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#253237'
   brandStrength: 0.306065637152642
   lightness: 0.8699122036341578
-  saturation: 0.8331633037887514
+  saturation: 0.5
   rhythmicContrast: 0.5825450664851815
 purpose: []
