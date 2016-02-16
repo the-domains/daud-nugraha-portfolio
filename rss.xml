@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Daud Nugraha Art]]></title>
         <description><![CDATA[Daud Nugraha Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/daud-nugraha-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 06:16:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 08:02:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/daud-nugraha-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e44cb74-46b3-4bf5-9f27-3d3d43436f97.jpg">]]></description>
+            <link>https://thegrid.ai/daud-nugraha-portfolio/793cf6f3-3fea-42e6-8024-2ec668dbf4db/index.html</link>
+            <guid isPermaLink="false">793cf6f3-3fea-42e6-8024-2ec668dbf4db</guid>
+            <pubDate>Tue, 16 Feb 2016 08:02:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Profile]]></title>
             <description><![CDATA[<article><h1>Profile</h1><p>Daud Budi Surya Nugraha</p></article>]]></description>
-            <link>undefinedprofile/index.html</link>
+            <link>https://thegrid.ai/daud-nugraha-portfolio/profile/index.html</link>
             <guid isPermaLink="false">b6bf1885-eaf7-4735-8390-67bf1ee03178</guid>
             <pubDate>Mon, 15 Feb 2016 06:15:18 GMT</pubDate>
         </item>
