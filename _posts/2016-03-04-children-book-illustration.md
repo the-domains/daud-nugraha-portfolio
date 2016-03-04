@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: I love children...bla bla bla
-datePublished: '2016-03-04T04:54:59.906Z'
-dateModified: '2016-03-04T03:35:01.884Z'
+datePublished: '2016-03-04T10:58:44.999Z'
+dateModified: '2016-03-04T04:55:08.140Z'
 title: Children Book Illustration
 author: []
+sourcePath: _posts/2016-03-04-children-book-illustration.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-children-book-illustration.md
-published: true
 url: children-book-illustration/index.html
 _type: Article
 
