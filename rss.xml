@@ -4,7 +4,7 @@
         <description><![CDATA[Daud Nugraha Art]]></description>
         <link>https://thegrid.ai/daud-nugraha-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 03:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 03:12:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/daud-nugraha-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TVC Storyboard]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/daud-nugraha-portfolio/tvc-storyboard/index.html</link>
             <guid isPermaLink="false">1d045267-5910-4daf-b851-b0093b34e936</guid>
             <pubDate>Fri, 04 Mar 2016 03:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Profile]]></title>
-            <description><![CDATA[<article><h1>Profile</h1><p>Daud Budi Surya Nugraha</p></article>]]></description>
-            <link>https://thegrid.ai/daud-nugraha-portfolio/profile/index.html</link>
-            <guid isPermaLink="false">b6bf1885-eaf7-4735-8390-67bf1ee03178</guid>
-            <pubDate>Mon, 15 Feb 2016 06:15:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
