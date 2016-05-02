@@ -1,5 +1,8 @@
+name: Daud Nugraha Portfolio
+favicon: null
+layout_spectrum: 0.37969
+typography_spectrum: 0.3801
 title: Daud Nugraha Art
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5
-  brandStrength: 0.306065637152642
-  rhythmicContrast: 0.5825450664851815
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  lightness: 0.8699122036341578
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Daud Nugraha Portfolio
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.06856343
-layout_spectrum: 0.4510261
+color:
+  brandColors:
+    - '#91e0fe'
+    - '#88c230'
+    - '#0e0000'
+    - '#92653b'
+    - '#c50035'
+  brandStrength: 0.3125
+  lightness: 0.875
+  saturation: 0.375
+  rhythmicContrast: 0.25
+purpose: []
