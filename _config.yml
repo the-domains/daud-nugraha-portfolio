@@ -14,15 +14,15 @@ collections:
       path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 1
-  lightness: 0.4912281
+  brandStrength: 0.6604478
+  lightness: 0.6623135
   brandColors:
     - '#92E1FF'
     - '#86C02E'
     - '#2C400E'
     - '#F98997'
     - '#91643A'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5065299
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Daud Nugraha Portfolio
 favicon: null
+name: Daud Nugraha Portfolio
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5206767
-layout_spectrum: 0.802005
+layout_spectrum: 1
