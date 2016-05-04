@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Daud Nugraha Art]]></title>
         <description><![CDATA[Daud Nugraha Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/daud-nugraha-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 06:11:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 06:11:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/daud-nugraha-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2df8b724-6e98-4612-8328-37beea722c5d.jpg">]]></description>
+            <link>https://thegrid.ai/daud-nugraha-portfolio/df73bc1b-b91b-405e-b7fa-239243e5c0ea/index.html</link>
+            <guid isPermaLink="false">df73bc1b-b91b-405e-b7fa-239243e5c0ea</guid>
+            <pubDate>Wed, 04 May 2016 06:11:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d474db3-b807-40fe-bc11-1ea41f638fb5.png">]]></description>
-            <link>undefineda95c571e-626e-4c0d-ad1a-4b6e6b049d72/index.html</link>
+            <link>https://thegrid.ai/daud-nugraha-portfolio/a95c571e-626e-4c0d-ad1a-4b6e6b049d72/index.html</link>
             <guid isPermaLink="false">a95c571e-626e-4c0d-ad1a-4b6e6b049d72</guid>
             <pubDate>Wed, 04 May 2016 06:11:29 GMT</pubDate>
         </item>
